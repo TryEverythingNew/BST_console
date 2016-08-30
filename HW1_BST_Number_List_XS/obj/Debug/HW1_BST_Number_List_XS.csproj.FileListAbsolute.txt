@@ -1,0 +1,6 @@
+d:\用户目录\我的文档\visual studio 2015\Projects\HW1_BST_Number_List_XS\HW1_BST_Number_List_XS\bin\Debug\HW1_BST_Number_List_XS.exe.config
+d:\用户目录\我的文档\visual studio 2015\Projects\HW1_BST_Number_List_XS\HW1_BST_Number_List_XS\bin\Debug\HW1_BST_Number_List_XS.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\HW1_BST_Number_List_XS\HW1_BST_Number_List_XS\bin\Debug\HW1_BST_Number_List_XS.pdb
+d:\用户目录\我的文档\visual studio 2015\Projects\HW1_BST_Number_List_XS\HW1_BST_Number_List_XS\obj\Debug\HW1_BST_Number_List_XS.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2015\Projects\HW1_BST_Number_List_XS\HW1_BST_Number_List_XS\obj\Debug\HW1_BST_Number_List_XS.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\HW1_BST_Number_List_XS\HW1_BST_Number_List_XS\obj\Debug\HW1_BST_Number_List_XS.pdb
